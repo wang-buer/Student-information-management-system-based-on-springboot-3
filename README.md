@@ -1,4 +1,4 @@
-# 基于Springboot的学生信息管理系统
+# 基于Springboot的学生信息管理系统3
 
 
 
@@ -27,37 +27,40 @@
 
 ### 4.1登录界面
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220515100503.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/20220515100503.jpg)
 
 用户通过此界面登录系统，还可以进行注册，且前端会自动进行信息校验
 
 ### 4.2编辑用户
 
-![编辑用户](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220506220345.png)
+![编辑用户](https://www.codeshop.fun/Typora-Images/20220506220345.png)
 
 管理员可以编辑学生信息，例如学生的姓名、密码、性别、邮箱和出生日期等
 
 ### 4.3添加学生
 
-![添加学生](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220506220349.png)
+![添加学生](https://www.codeshop.fun/Typora-Images/20220506220349.png)
 
 管理员可以添加学生信息，例如学生的姓名、密码、性别、邮箱和出生日期等，如上图
 
 ### 4.4学生列表
 
-![学生列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220506220352.png)
+![学生列表](https://www.codeshop.fun/Typora-Images/20220506220352.png)
 
 管理员可以查看学生信息，学生列表页面显示学生的学号、姓名、头像、身份证号、在校状态等，然后可以对学生进行增加、删除、修改功能
 
 ### 4.5权限控制
 
-![角色权限控制1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220506220316.png)
+![角色权限控制1](https://www.codeshop.fun/Typora-Images/20220506220316.png)
 
-![角色控制2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220506220304.jpg)
+![角色控制2](https://www.codeshop.fun/Typora-Images/20220506220304.jpg)
 
-## 扫描下方，回复 “学生3 ” ，以获取完整版的项目代码。
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220515101228.png)
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**学生**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 
 
